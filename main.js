@@ -202,7 +202,7 @@ floorMat.receiveShadow = true;
 floorMat.rotation.x = -Math.PI / 2;
 floorMat.position.y = 106;
 floorMat.position.z = 600;
-floorMat.scale.set(0.5, 0.5, 0.5)
+floorMat.scale.set(0.3, 0.3, 0.3)
 floorMat.transparent = true;
 scene.add(floorMat);
 //Finishing up code
@@ -241,7 +241,7 @@ function onPointerDown() {
   const intersects = raycaster.intersectObject(mush);
   
   if(intersects.length)
-  	window.open("/ArcadeHome/index.html");  
+  	window.open("https://jacksonuptain.github.io/Test-Portfolio/index.html");  
 }
 
 function onPointerMove(event) {
