@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head lang="en">
+        <script async src="https://unpkg.com/es-module-shims@1.6.3/dist/es-module-shims.js"></script>
+        <link rel="stylesheet" href="style.css">
+        <script type="importmap">
+        {
+            "imports": {
+            "three": "https://unpkg.com/three@0.149.0/build/three.module.js",
+            "three/addons/": "https://unpkg.com/three@0.149.0/examples/jsm/"
+            }
+        }
+        </script>
+		<meta charset="utf-8">
+		<title>JU-Profile</title>
+		<style>
+			body { 
+                margin: 0 
+            }
+            .progress-bar-container {
+                position: absolute;
+                
+                background-size: 100% 120%;
+                width:100%;
+                height:100%;
+                
+                background-color: black;
+                background-image: url('img/JackArcade.png');
+                background-repeat: no-repeat;
+                display:flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+            }
+            #progress-bar {
+                width:30%;
+                margin-top: 5%;
+                height: 2%;
+                color:yellow;
+            }
+            label {
+                color: white;
+                font-size: 2rem;
+                
+            }
+            .banana {
+                font-style: oblique;
+                font-size: 4rem;
+                color:rgba(226, 223, 16, 0.988);
+                text-shadow:0 0 20px rgb(199, 228, 8);
+                
+                font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            }
+		</style>
+	</head>
+	<body>
+        <nav>
+            <ul>
+                
+                <li>
+                    <a href="emailForm.html" id="contact">Contact</a>
+                </li>
+                <li>
+                    <img src="img/JUpic.png" alt="Jackson" id="jackson" href="indexmain.html">
+                </li>
+                
+            </ul>
+            
+        </nav>
+        <div class="progress-bar-container" id="progcontain">
+            <label for="progcontain" class="banana">Jackson Arcade</label>
+            <label for="progress-bar" > </label>
+            <progress id="progress-bar" value="0" max="100"></progress>
+        </div>
+        
+		<script type="module" src="main.js" id="c"></script>
+
+    </body>
+</html>

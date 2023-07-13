@@ -1,0 +1,11 @@
+Model Information:
+* title:	Train - BR Class 08 Shunter Swallow Livery
+* source:	https://sketchfab.com/3d-models/train-br-class-08-shunter-swallow-livery-a9dfe904aee048e196c5caae1d6b2b85
+* author:	timblewee (https://sketchfab.com/timblewee)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Train - BR Class 08 Shunter Swallow Livery" (https://sketchfab.com/3d-models/train-br-class-08-shunter-swallow-livery-a9dfe904aee048e196c5caae1d6b2b85) by timblewee (https://sketchfab.com/timblewee) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

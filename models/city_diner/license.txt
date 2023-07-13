@@ -1,0 +1,11 @@
+Model Information:
+* title:	CIty Diner
+* source:	https://sketchfab.com/3d-models/city-diner-39633c976d58415fae41957ae53f595f
+* author:	tl0615 (https://sketchfab.com/tl0615)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "CIty Diner" (https://sketchfab.com/3d-models/city-diner-39633c976d58415fae41957ae53f595f) by tl0615 (https://sketchfab.com/tl0615) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

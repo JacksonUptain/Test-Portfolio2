@@ -1,0 +1,11 @@
+Model Information:
+* title:	Science Fiction Tram/Train Bridge.
+* source:	https://sketchfab.com/3d-models/science-fiction-tramtrain-bridge-c275ab6308fb49958243cfe2112c9aba
+* author:	@blue.blender.print (https://sketchfab.com/arobaco)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Science Fiction Tram/Train Bridge." (https://sketchfab.com/3d-models/science-fiction-tramtrain-bridge-c275ab6308fb49958243cfe2112c9aba) by @blue.blender.print (https://sketchfab.com/arobaco) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)

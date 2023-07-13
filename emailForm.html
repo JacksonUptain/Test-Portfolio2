@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>Contact JU</title>
+    <link rel="stylesheet" href="contactForm.css">
+    <script>
+        let homeImg = document.getElementById("jackson").onclick = function() {
+	        window.open("/ArcadeOutside/indexmain.html")
+        };
+    </script>
+</head>
+<body>
+    <nav>
+        <ul>
+            
+            <li>
+                <a href="emailForm.html" id="contact">Contact</a>
+            </li>
+            <li>
+                <img src="img/JUpic.png" alt="Jackson" id="jackson" href="indexmain.html">
+            </li>
+            
+        </ul>
+        
+    </nav>
+    <div class="container">
+        <h1>Contact Me</h1>
+        <form action="https://formsubmit.co/7070e1904ccfbfea826f4333b3c36f50" method="POST">
+            <input type="text" name="Name" placeholder="Full Name / Nickname / Github Username" required>
+            <input type="email" name="Email" placeholder="Email" required>
+            <select name="Continent" required>
+                <option>Africa</option>
+                <option>Asia</option>
+                <option>Australia</option>
+                <option>Europe</option>
+                <option>North America</option>
+                <option>South America</option>
+                <option>India</option>
+                <option>Britain</option>
+                <option>United Kingdom</option>
+                <option>United States</option>
+                <option>Other</option>
+                <option>Rather Not Say</option>
+            </select>
+            <textarea name="Message" placeholder="Message : Tell me something about yourself..." required></textarea>
+            <button type="submit">Send</button>
+        </form>
+    </div>
+
+</body>
+</html>
